@@ -1,8 +1,9 @@
 # simple_calculator
 
-A new Flutter project.
+A simple Calculator where user can perform arithmetic operation.
 
-## Getting Started
+## Screenshot:
+<img src="https://github.com/moshaddaque/calculator/blob/main/screenshots/cal_home.PNG" height ="200"/>
 
 This project is a starting point for a Flutter application.
 
